@@ -1,0 +1,16 @@
+body {
+background-image: url("fly.jpg");
+background-size: cover;
+}
+h1 {
+	text-align: center;
+	color: red;
+}
+hr {
+  max-width: 50px;
+  border-width: 10px;
+  border-color: red; 
+}
+button {
+	background-color: yellow;
+}
